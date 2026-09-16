@@ -2,50 +2,56 @@
 
 I'm a Computer & Automation Engineering graduate focused on **AI, Data and Automation**.
 
-I build practical projects that combine **data analysis, machine learning and AI-powered workflows** to transform raw data into useful insights and automated solutions.
+I build practical systems that combine **data analysis, machine learning, LLMs, APIs and automation workflows** to turn raw information into useful insights and reliable automated solutions.
 
 ## Current Focus
 
 I'm currently developing my skills and portfolio around:
 
 * **AI & Data Automation**
-* **LLM-powered applications**
+* **LLM-powered applications and RAG**
 * **Business and Data Analytics**
-* **Python-based automation**
+* **Python APIs and workflow automation**
 * **Machine Learning**
 
-My current direction is moving from traditional Data Science toward systems that combine **reliable data processing with AI-driven interpretation and automation**.
+My current direction is moving from traditional Data Science toward systems that combine **reliable data processing with AI-driven interpretation, APIs and automation**.
 
-## Featured Project
+## Featured Projects
 
-### AI Business Data Analyst
+### [AI Business Data Analyst](https://github.com/davide5230/Data-Science/tree/main/AI%20%26%20Automation/AI-business-data-analyst)
 
-An AI-assisted business analytics pipeline that combines deterministic Python analysis with LLMs.
+AI-assisted business analytics pipeline combining deterministic Python analysis with LLM-based management interpretation.
 
-The system:
+**Tech:** Python · Pandas · NumPy · Pydantic · Ollama · Jupyter
 
-* calculates business KPIs with Pandas;
-* analyzes product, regional and monthly performance;
-* detects anomalies and loss-making transactions;
-* generates deterministic business insights;
-* uses LLM for management interpretation;
-* validates structured AI outputs with Pydantic.
+### [AI Document Intelligence](https://github.com/davide5230/Data-Science/tree/main/AI%20%26%20Automation/AI-document-intelligence)
 
-**Tech:** Python · Pandas · NumPy · Pydantic · AI Models · Jupyter
+Lightweight RAG system that loads documents, creates embeddings, performs semantic retrieval and generates grounded answers with structured source metadata.
+
+**Tech:** Python · NumPy · Embeddings · RAG · Ollama · Pydantic · Jupyter
+
+### [AI Support Ticket Automation API](https://github.com/davide5230/Data-Science/tree/main/AI%20%26%20Automation/AI-ticket-automation-api)
+
+FastAPI backend that validates incoming support tickets, classifies them with an LLM, applies deterministic routing, falls back to rule-based logic when needed and persists results with SQLite.
+
+**Tech:** Python · FastAPI · REST APIs · Pydantic · Ollama · SQLite
 
 ## Tech Stack
 
-**Languages**
+**Languages**  
 Python · SQL · R
 
-**Data & Machine Learning**
-Pandas · NumPy · Scikit-learn · TensorFlow
+**Data & Machine Learning**  
+Pandas · NumPy · Scikit-learn · TensorFlow · EDA
 
-**AI & Automation**
-LLMs · Pydantic · APIs
+**AI & Automation**  
+LLMs · RAG · Embeddings · Structured Outputs · Pydantic · Ollama
 
-**Tools**
-Git · GitHub · Jupyter · Excel
+**APIs & Development**  
+FastAPI · REST APIs · SQLite · Git · GitHub · Jupyter
+
+**Business & Analytics**  
+Excel · Business Analytics · Dashboarding
 
 ## Background
 
@@ -57,9 +63,9 @@ I'm particularly interested in building solutions that connect:
 
 ## Portfolio
 
-Explore my projects in:
+Explore the full portfolio:
 
-**[Data Science Portfolio](https://github.com/davide5230/Data-Science)**
+**[Data, AI & Automation Portfolio](https://github.com/davide5230/Data-Science)**
 
 ## Connect
 
